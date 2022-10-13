@@ -37,7 +37,7 @@ body {
   color: white;
 }
 .btn:hover {
-  /* box-shadow: 1px 4px 10px rgb(129, 124, 107); */
+  box-shadow: 1px 4px 10px rgb(129, 124, 107);
   background-color: #205cff;
 }
 p {
